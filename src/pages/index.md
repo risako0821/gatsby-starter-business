@@ -16,7 +16,9 @@ offerings:
         社名: デザイン＆テクノロジー合同会社 所在地: 〒143-0015　東京都大田区大森西6－17－17 KOCA　A3 Tel.
         03-6450-0889 設立: 2020年7月1日 資本金 1,000,000円 運営 代表社員　　　　小野田 里砂子 業務執行社員　　藏重
         等 業務執行社員　　佐京　孝一
-testimonials: []
+testimonials:
+  - author: あああああ
+    quote: あああああああ
 meta_title: Home | Gatsby Starter Business
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
