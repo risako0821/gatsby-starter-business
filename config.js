@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'TRC合同会社', // Site title.
   siteTitleAlt: 'TRC', // Alternative site title for SEO.
-  siteLogo: '/icons/D&T.png', // Logo used for SEO and manifest.
+  siteLogo: '/icons/TRC.png', // Logo used for SEO and manifest.
   siteUrl: 'https://www.T-R-C-GROUP.com', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription: 'TRC合同会社のホームページです', // Website description used for RSS feeds/meta description tag.
