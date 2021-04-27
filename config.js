@@ -13,7 +13,7 @@ module.exports = {
   userTwitter: '',
   userLocation: '東京都足立区栗原3-10-19　407',
   userDescription: 'TRC',
-  copyright: 'Copyright © TRC LLC. 2020. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
+  copyright: 'Copyright © TRC LLC. 2021. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#ff9900', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff', // Used for setting manifest background color.
 }
